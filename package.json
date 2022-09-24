@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kaedda/yelpcamp#readme",
   "dependencies": {
     "ejs": "^3.1.8",
+    "ejs-mate": "^4.0.0",
     "express": "^4.17.3",
     "method-override": "^3.0.0",
     "mongoose": "^6.2.10"
